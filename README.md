@@ -3,7 +3,7 @@
 
 Chrome Extension to save your important links at one place.
 # Demo
-
+<img width="352" alt="Screenshot 2023-05-20 at 12 14 47 AM" src="https://github.com/ShubhamSharma2003/LinkSaver/assets/117969915/3cb3e5bc-e156-4e0a-b07b-bdd8507dceb6">
 
 ## Documentation
 
